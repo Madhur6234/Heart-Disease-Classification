@@ -1,6 +1,6 @@
 # Heart Disease Classification - Machine Learning Project
 
-**[Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Heart-Disease-Classification---Machine-Learning-Project/blob/main/Heart-Disease-Classification.ipynb)**
+## [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Heart-Disease-Classification---Machine-Learning-Project/blob/main/Heart-Disease-Classification.ipynb)
 
 ## Predicting Heart Disease using Machine Learning
 
