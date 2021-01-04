@@ -2,7 +2,7 @@
 
 ## [Jupyter Notebook - NBViewer Link](https://nbviewer.jupyter.org/github/Madhur6234/Heart-Disease-Classification---Machine-Learning-Project/blob/main/Heart-Disease-Classification.ipynb)
 
-## Predicting Heart Disease using Machine Learning
+## 🚑Predicting Heart Disease using Machine Learning💖
 
 This project looks into using various Python-based machine learning and data science libraries in an attempt to build a machine learning model capable of predicting whether or not someone has heart disease based on their medical attributes.
 
