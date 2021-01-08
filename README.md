@@ -21,7 +21,7 @@ There is also a version of it available on **[Kaggle](https://www.kaggle.com/ron
     * scikit-learn (sklearn)
 
 #### Steps taken:
-* 🔧 Preparing the tools
+* 🔧Preparing the tools
 * 📇Load Data
 * 🔎Data Exploration (Exploratory Data Analysis - EDA)
 * 📐Modelling
