@@ -20,6 +20,15 @@ There is also a version of it available on **[Kaggle](https://www.kaggle.com/ron
 * For Modeling Data:
     * scikit-learn (sklearn)
 
+#### Steps taken:
+* 🔧 Preparing the tools
+* 📇Load Data
+* 🔎Data Exploration (Exploratory Data Analysis - EDA)
+* 📐Modelling
+* 🧪Experimentation
+* 🗿Feature Importance
+* 💾Exporting Model
+
 #### Data dictionary:
 
 1. age - age in years
